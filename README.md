@@ -1,4 +1,4 @@
-# Anime Face Generation using DCGAN (Keras + TensorFlow)
+# Anime Face Creation using DCGAN (Keras + TensorFlow)
 
 ## 🧠 Problem Statement
 Generating new, realistic anime-style human faces using Deep Convolutional Generative Adversarial Networks (DCGAN). The goal is to train a deep learning model capable of learning features of anime faces and synthesizing new ones that resemble real data.
