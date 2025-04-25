@@ -17,5 +17,19 @@ We used the "Anime Faces" dataset available on Kaggle:
 
 [Anime Face Dataset on Kaggle](https://www.kaggle.com/datasets/splcher/animefacedataset)
 
+## Folder Structure :
+
+Anime-Face-DCGAN/
+│
+├── notebooks/
+│   └── Anime_Face_Generation_DCGAN_Commented.ipynb   # Main notebook
+│
+├── train.py                                          # Training script version of notebook
+├── utils.py                                          # Helper functions (plotting, normalization, etc.)
+│
+├── README.md                                         # Project overview and usage instructions
+├── requirements.txt                                  # Python dependencies
+├── .gitignore                                        # Files and folders to ignore in Git
+
 ## 📽️ Output
 The model progressively improves over training, producing high-quality anime face images. A selection of generated faces is shown at the end of training.
